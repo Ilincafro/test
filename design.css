@@ -1,0 +1,11 @@
+body {
+    background-color: hotpink;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.tabel {
+    align-items: center;
+}
+.imagine {
+    width: 50%;
+}
